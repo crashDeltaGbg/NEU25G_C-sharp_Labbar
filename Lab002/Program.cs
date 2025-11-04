@@ -1,9 +1,4 @@
-﻿using System;
-using System.Numerics;
-using System.Reflection.Emit;
-using System.Xml.Linq;
-
-namespace Lab002
+﻿namespace Lab002
 {
     internal class Program
     {
@@ -17,17 +12,7 @@ namespace Lab002
 
             GameOver = false;
 
-            // bool gameOver = false;
-
             Console.CursorVisible = false;
-
-            /*player.Draw();
-
-            foreach (var element in level.Elements)
-            {
-                int distance = level.GetDistance(element, player);
-                if (distance <= 5) element.Draw();
-            }*/
 
             Console.ForegroundColor = ConsoleColor.White;
 
@@ -74,84 +59,6 @@ namespace Lab002
                         }
                     }*/
                 }
-
-                /*ConsoleKeyInfo input = Console.ReadKey();
-
-                switch (input.Key)
-                {
-                    case ConsoleKey.UpArrow:
-                        y = -1;
-                        break;
-                    case ConsoleKey.DownArrow:
-                        y = 1;
-                        break;
-                    case ConsoleKey.LeftArrow:
-                        x = -1;
-                        break;
-                    case ConsoleKey.RightArrow:
-                        x = 1;
-                        break;
-                    default:
-                        break;
-                }
-
-                Enemy deadEnemy = null;
-
-                foreach (var element in level.Elements)
-                {
-                    if (element.GetDistance(player.X + x, player.Y + y) == 0)
-                    {
-                        canMove = false;
-
-                        if (element is Enemy enemy)
-
-                            Console.SetCursorPosition(0, level.Rows + 1);
-
-                        *//*int attack = player.Attack.Throw();
-                        int defence = enemy.Defence.Throw();*//*
-
-                        int outcome = Battle(player.Attack.Throw(), enemy.Defence.Throw());
-
-                        if (outcome > 0)
-                        {
-                            enemy.HP -= outcome;
-
-                            Console.ForegroundColor = ConsoleColor.Green;
-                            Console.WriteLine($"{player.Name} attacks the {enemy.Name} for {outcome} points of damage.".PadRight(100));
-                        }
-
-                        if (enemy.HP > 0)
-                        {
-                            outcome = Battle(enemy.Attack.Throw(), player.Defence.Throw());
-
-                            if (outcome > 0)
-                            {
-                                player.HP -= outcome;
-
-                                Console.ForegroundColor = ConsoleColor.Red;
-                                Console.WriteLine($"The {enemy.Name} attacks {player.Name} for {outcome} points of damage.".PadRight(100));
-                            }
-                        }
-
-                        if (enemy.HP <= 0)
-                        {
-                            Console.WriteLine($"The {enemy.Name} is dead.");
-                            deadEnemy = enemy;
-                            canMove = true;
-                            // level.Enemies.Remove(enemy);
-                        }
-                    }
-                }
-
-                level.Elements.Remove(deadEnemy);
-
-                if (canMove)
-                {
-                    Console.SetCursorPosition(player.X, player.Y);
-                    Console.Write(' ');
-                    player.X += x;
-                    player.Y += y;
-                }*/
 
                 Console.SetCursorPosition(player.X, player.Y);
 

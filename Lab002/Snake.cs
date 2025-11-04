@@ -1,11 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Runtime.CompilerServices;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Lab002
+﻿namespace Lab002
 {
     internal class Snake : Enemy
     {
@@ -22,8 +15,6 @@ namespace Lab002
 
         public override void Update(LevelData level)
         {
-            // bool canMove = true;
-
             Player player = (Player)level.Elements.Find(e => e is Player);
 
             int distanceToPlayer = player.GetDistance(X, Y);

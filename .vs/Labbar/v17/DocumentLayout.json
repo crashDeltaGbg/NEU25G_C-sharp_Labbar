@@ -3,36 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\ricka\\source\\repos\\Labbar\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E3E649ED-12A3-AA36-013A-7D6C3E7525C7}|Lab002\\Lab002.csproj|c:\\users\\ricka\\source\\repos\\labbar\\lab002\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3E649ED-12A3-AA36-013A-7D6C3E7525C7}|Lab002\\Lab002.csproj|solutionrelative:lab002\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3E649ED-12A3-AA36-013A-7D6C3E7525C7}|Lab002\\Lab002.csproj|c:\\users\\ricka\\source\\repos\\labbar\\lab002\\combat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3E649ED-12A3-AA36-013A-7D6C3E7525C7}|Lab002\\Lab002.csproj|solutionrelative:lab002\\combat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3E649ED-12A3-AA36-013A-7D6C3E7525C7}|Lab002\\Lab002.csproj|c:\\users\\ricka\\source\\repos\\labbar\\lab002\\levelelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3E649ED-12A3-AA36-013A-7D6C3E7525C7}|Lab002\\Lab002.csproj|solutionrelative:lab002\\levelelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3E649ED-12A3-AA36-013A-7D6C3E7525C7}|Lab002\\Lab002.csproj|c:\\users\\ricka\\source\\repos\\labbar\\lab002\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3E649ED-12A3-AA36-013A-7D6C3E7525C7}|Lab002\\Lab002.csproj|solutionrelative:lab002\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3E649ED-12A3-AA36-013A-7D6C3E7525C7}|Lab002\\Lab002.csproj|c:\\users\\ricka\\source\\repos\\labbar\\lab002\\rat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3E649ED-12A3-AA36-013A-7D6C3E7525C7}|Lab002\\Lab002.csproj|solutionrelative:lab002\\rat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3E649ED-12A3-AA36-013A-7D6C3E7525C7}|Lab002\\Lab002.csproj|c:\\users\\ricka\\source\\repos\\labbar\\lab002\\wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E649ED-12A3-AA36-013A-7D6C3E7525C7}|Lab002\\Lab002.csproj|solutionrelative:lab002\\wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E3E649ED-12A3-AA36-013A-7D6C3E7525C7}|Lab002\\Lab002.csproj|c:\\users\\ricka\\source\\repos\\labbar\\lab002\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3E649ED-12A3-AA36-013A-7D6C3E7525C7}|Lab002\\Lab002.csproj|solutionrelative:lab002\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3E649ED-12A3-AA36-013A-7D6C3E7525C7}|Lab002\\Lab002.csproj|c:\\users\\ricka\\source\\repos\\labbar\\lab002\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3E649ED-12A3-AA36-013A-7D6C3E7525C7}|Lab002\\Lab002.csproj|solutionrelative:lab002\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3E649ED-12A3-AA36-013A-7D6C3E7525C7}|Lab002\\Lab002.csproj|c:\\users\\ricka\\source\\repos\\labbar\\lab002\\rat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E649ED-12A3-AA36-013A-7D6C3E7525C7}|Lab002\\Lab002.csproj|solutionrelative:lab002\\rat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E649ED-12A3-AA36-013A-7D6C3E7525C7}|Lab002\\Lab002.csproj|c:\\users\\ricka\\source\\repos\\labbar\\lab002\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E649ED-12A3-AA36-013A-7D6C3E7525C7}|Lab002\\Lab002.csproj|solutionrelative:lab002\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E649ED-12A3-AA36-013A-7D6C3E7525C7}|Lab002\\Lab002.csproj|c:\\users\\ricka\\source\\repos\\labbar\\lab002\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E649ED-12A3-AA36-013A-7D6C3E7525C7}|Lab002\\Lab002.csproj|solutionrelative:lab002\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E649ED-12A3-AA36-013A-7D6C3E7525C7}|Lab002\\Lab002.csproj|c:\\users\\ricka\\source\\repos\\labbar\\lab002\\levelelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E649ED-12A3-AA36-013A-7D6C3E7525C7}|Lab002\\Lab002.csproj|solutionrelative:lab002\\levelelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E3E649ED-12A3-AA36-013A-7D6C3E7525C7}|Lab002\\Lab002.csproj|c:\\users\\ricka\\source\\repos\\labbar\\lab002\\leveldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3E649ED-12A3-AA36-013A-7D6C3E7525C7}|Lab002\\Lab002.csproj|solutionrelative:lab002\\leveldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E649ED-12A3-AA36-013A-7D6C3E7525C7}|Lab002\\Lab002.csproj|c:\\users\\ricka\\source\\repos\\labbar\\lab002\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E649ED-12A3-AA36-013A-7D6C3E7525C7}|Lab002\\Lab002.csproj|solutionrelative:lab002\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E649ED-12A3-AA36-013A-7D6C3E7525C7}|Lab002\\Lab002.csproj|c:\\users\\ricka\\source\\repos\\labbar\\lab002\\dice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E649ED-12A3-AA36-013A-7D6C3E7525C7}|Lab002\\Lab002.csproj|solutionrelative:lab002\\dice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E649ED-12A3-AA36-013A-7D6C3E7525C7}|Lab002\\Lab002.csproj|c:\\users\\ricka\\source\\repos\\labbar\\lab002\\combat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E649ED-12A3-AA36-013A-7D6C3E7525C7}|Lab002\\Lab002.csproj|solutionrelative:lab002\\combat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E3E649ED-12A3-AA36-013A-7D6C3E7525C7}|Lab002\\Lab002.csproj|c:\\users\\ricka\\source\\repos\\labbar\\lab002\\lab002.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -46,8 +54,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Wall.cs",
+              "DocumentMoniker": "C:\\Users\\ricka\\source\\repos\\Labbar\\Lab002\\Wall.cs",
+              "RelativeDocumentMoniker": "Lab002\\Wall.cs",
+              "ToolTip": "C:\\Users\\ricka\\source\\repos\\Labbar\\Lab002\\Wall.cs",
+              "RelativeToolTip": "Lab002\\Wall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T08:58:56.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dice.cs",
+              "DocumentMoniker": "C:\\Users\\ricka\\source\\repos\\Labbar\\Lab002\\Dice.cs",
+              "RelativeDocumentMoniker": "Lab002\\Dice.cs",
+              "ToolTip": "C:\\Users\\ricka\\source\\repos\\Labbar\\Lab002\\Dice.cs",
+              "RelativeToolTip": "Lab002\\Dice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T08:55:19.399Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -62,111 +96,111 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Snake.cs",
               "DocumentMoniker": "C:\\Users\\ricka\\source\\repos\\Labbar\\Lab002\\Snake.cs",
               "RelativeDocumentMoniker": "Lab002\\Snake.cs",
               "ToolTip": "C:\\Users\\ricka\\source\\repos\\Labbar\\Lab002\\Snake.cs",
               "RelativeToolTip": "Lab002\\Snake.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAACkAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-17T11:53:27.951Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "Combat.cs",
               "DocumentMoniker": "C:\\Users\\ricka\\source\\repos\\Labbar\\Lab002\\Combat.cs",
               "RelativeDocumentMoniker": "Lab002\\Combat.cs",
               "ToolTip": "C:\\Users\\ricka\\source\\repos\\Labbar\\Lab002\\Combat.cs",
               "RelativeToolTip": "Lab002\\Combat.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-17T09:59:08.712Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Enemy.cs",
               "DocumentMoniker": "C:\\Users\\ricka\\source\\repos\\Labbar\\Lab002\\Enemy.cs",
               "RelativeDocumentMoniker": "Lab002\\Enemy.cs",
               "ToolTip": "C:\\Users\\ricka\\source\\repos\\Labbar\\Lab002\\Enemy.cs",
               "RelativeToolTip": "Lab002\\Enemy.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBMAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-17T08:14:46.486Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ricka\\source\\repos\\Labbar\\Lab002\\Program.cs",
               "RelativeDocumentMoniker": "Lab002\\Program.cs",
               "ToolTip": "C:\\Users\\ricka\\source\\repos\\Labbar\\Lab002\\Program.cs",
               "RelativeToolTip": "Lab002\\Program.cs",
-              "ViewState": "AgIAAKQAAAAAAAAAAAAuwLAAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-12T13:25:49.444Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "LevelData.cs",
               "DocumentMoniker": "C:\\Users\\ricka\\source\\repos\\Labbar\\Lab002\\LevelData.cs",
               "RelativeDocumentMoniker": "Lab002\\LevelData.cs",
               "ToolTip": "C:\\Users\\ricka\\source\\repos\\Labbar\\Lab002\\LevelData.cs",
               "RelativeToolTip": "Lab002\\LevelData.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAA3wC0AAABLAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-12T13:03:13.389Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Rat.cs",
               "DocumentMoniker": "C:\\Users\\ricka\\source\\repos\\Labbar\\Lab002\\Rat.cs",
               "RelativeDocumentMoniker": "Lab002\\Rat.cs",
               "ToolTip": "C:\\Users\\ricka\\source\\repos\\Labbar\\Lab002\\Rat.cs",
               "RelativeToolTip": "Lab002\\Rat.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAuwDMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-12T12:52:22.632Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "LevelElement.cs",
               "DocumentMoniker": "C:\\Users\\ricka\\source\\repos\\Labbar\\Lab002\\LevelElement.cs",
               "RelativeDocumentMoniker": "Lab002\\LevelElement.cs",
               "ToolTip": "C:\\Users\\ricka\\source\\repos\\Labbar\\Lab002\\LevelElement.cs",
               "RelativeToolTip": "Lab002\\LevelElement.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowB8AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-12T20:16:54.641Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\ricka\\source\\repos\\Labbar\\Lab002\\Player.cs",
               "RelativeDocumentMoniker": "Lab002\\Player.cs",
               "ToolTip": "C:\\Users\\ricka\\source\\repos\\Labbar\\Lab002\\Player.cs",
               "RelativeToolTip": "Lab002\\Player.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAewEAAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-12T11:55:56.568Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Lab002.csproj",
               "DocumentMoniker": "C:\\Users\\ricka\\source\\repos\\Labbar\\Lab002\\Lab002.csproj",
               "RelativeDocumentMoniker": "Lab002\\Lab002.csproj",
@@ -174,7 +208,8 @@
               "RelativeToolTip": "Lab002\\Lab002.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-12T11:50:32.243Z"
+              "WhenOpened": "2025-10-12T11:50:32.243Z",
+              "EditorCaption": ""
             }
           ]
         }

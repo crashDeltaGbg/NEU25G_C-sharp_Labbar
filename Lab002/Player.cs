@@ -1,21 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Linq.Expressions;
-using System.Numerics;
-using System.Reflection.Emit;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Lab002
+﻿namespace Lab002
 {
     internal class Player : Enemy
     {
-        /*public string Name { get; set; } = "Player";
-        public int HP { get; set; } = 100;
-        public Dice Attack { get; } = new Dice(2, 6, 2);
-        public Dice Defence { get; } = new Dice(2, 6, 0);*/
-
         public Player()
         {
             Symbol = '@';
@@ -84,7 +70,7 @@ namespace Lab002
             }
 
             level.Elements.Remove(deadEnemy);
-            
+
             Console.Write(' ');
 
             if (canMove)

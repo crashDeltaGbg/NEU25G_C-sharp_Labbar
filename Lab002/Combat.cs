@@ -1,11 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Reflection.Emit;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Lab002
+﻿namespace Lab002
 {
     internal class Combat
     {
@@ -22,7 +15,6 @@ namespace Lab002
 
             if (defender.HP > 0)
             {
-                outcome = defender.Attack.Throw() - attacker.Defence.Throw();
 
                 if (outcome > 0)
                 {
