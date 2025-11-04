@@ -3,48 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\ricka\\source\\repos\\Labbar\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E3E649ED-12A3-AA36-013A-7D6C3E7525C7}|Lab002\\Lab002.csproj|c:\\users\\ricka\\source\\repos\\labbar\\lab002\\wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3E649ED-12A3-AA36-013A-7D6C3E7525C7}|Lab002\\Lab002.csproj|solutionrelative:lab002\\wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{75EE01CF-7AA4-1EBB-B7F0-AA4D07AA232F}|..\\NEU25G-Csharp\\L046_Labb3_codealong\\L046_Labb3_codealong.csproj|c:\\users\\ricka\\source\\repos\\neu25g-csharp\\l046_labb3_codealong\\viewmodels\\configurationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3E649ED-12A3-AA36-013A-7D6C3E7525C7}|Lab002\\Lab002.csproj|c:\\users\\ricka\\source\\repos\\labbar\\lab002\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3E649ED-12A3-AA36-013A-7D6C3E7525C7}|Lab002\\Lab002.csproj|solutionrelative:lab002\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{75EE01CF-7AA4-1EBB-B7F0-AA4D07AA232F}|..\\NEU25G-Csharp\\L046_Labb3_codealong\\L046_Labb3_codealong.csproj|c:\\users\\ricka\\source\\repos\\neu25g-csharp\\l046_labb3_codealong\\views\\configurationview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3E649ED-12A3-AA36-013A-7D6C3E7525C7}|Lab002\\Lab002.csproj|c:\\users\\ricka\\source\\repos\\labbar\\lab002\\rat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3E649ED-12A3-AA36-013A-7D6C3E7525C7}|Lab002\\Lab002.csproj|solutionrelative:lab002\\rat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{75EE01CF-7AA4-1EBB-B7F0-AA4D07AA232F}|..\\NEU25G-Csharp\\L046_Labb3_codealong\\L046_Labb3_codealong.csproj|c:\\users\\ricka\\source\\repos\\neu25g-csharp\\l046_labb3_codealong\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3E649ED-12A3-AA36-013A-7D6C3E7525C7}|Lab002\\Lab002.csproj|c:\\users\\ricka\\source\\repos\\labbar\\lab002\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3E649ED-12A3-AA36-013A-7D6C3E7525C7}|Lab002\\Lab002.csproj|solutionrelative:lab002\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{75EE01CF-7AA4-1EBB-B7F0-AA4D07AA232F}|..\\NEU25G-Csharp\\L046_Labb3_codealong\\L046_Labb3_codealong.csproj|c:\\users\\ricka\\source\\repos\\neu25g-csharp\\l046_labb3_codealong\\views\\playerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3E649ED-12A3-AA36-013A-7D6C3E7525C7}|Lab002\\Lab002.csproj|c:\\users\\ricka\\source\\repos\\labbar\\lab002\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3E649ED-12A3-AA36-013A-7D6C3E7525C7}|Lab002\\Lab002.csproj|solutionrelative:lab002\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3E649ED-12A3-AA36-013A-7D6C3E7525C7}|Lab002\\Lab002.csproj|c:\\users\\ricka\\source\\repos\\labbar\\lab002\\levelelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3E649ED-12A3-AA36-013A-7D6C3E7525C7}|Lab002\\Lab002.csproj|solutionrelative:lab002\\levelelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3E649ED-12A3-AA36-013A-7D6C3E7525C7}|Lab002\\Lab002.csproj|c:\\users\\ricka\\source\\repos\\labbar\\lab002\\leveldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3E649ED-12A3-AA36-013A-7D6C3E7525C7}|Lab002\\Lab002.csproj|solutionrelative:lab002\\leveldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3E649ED-12A3-AA36-013A-7D6C3E7525C7}|Lab002\\Lab002.csproj|c:\\users\\ricka\\source\\repos\\labbar\\lab002\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3E649ED-12A3-AA36-013A-7D6C3E7525C7}|Lab002\\Lab002.csproj|solutionrelative:lab002\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3E649ED-12A3-AA36-013A-7D6C3E7525C7}|Lab002\\Lab002.csproj|c:\\users\\ricka\\source\\repos\\labbar\\lab002\\dice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3E649ED-12A3-AA36-013A-7D6C3E7525C7}|Lab002\\Lab002.csproj|solutionrelative:lab002\\dice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3E649ED-12A3-AA36-013A-7D6C3E7525C7}|Lab002\\Lab002.csproj|c:\\users\\ricka\\source\\repos\\labbar\\lab002\\combat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3E649ED-12A3-AA36-013A-7D6C3E7525C7}|Lab002\\Lab002.csproj|solutionrelative:lab002\\combat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3E649ED-12A3-AA36-013A-7D6C3E7525C7}|Lab002\\Lab002.csproj|c:\\users\\ricka\\source\\repos\\labbar\\lab002\\lab002.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E3E649ED-12A3-AA36-013A-7D6C3E7525C7}|Lab002\\Lab002.csproj|solutionrelative:lab002\\lab002.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{75EE01CF-7AA4-1EBB-B7F0-AA4D07AA232F}|..\\NEU25G-Csharp\\L046_Labb3_codealong\\L046_Labb3_codealong.csproj|c:\\users\\ricka\\source\\repos\\neu25g-csharp\\l046_labb3_codealong\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,34 +25,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Wall.cs",
-              "DocumentMoniker": "C:\\Users\\ricka\\source\\repos\\Labbar\\Lab002\\Wall.cs",
-              "RelativeDocumentMoniker": "Lab002\\Wall.cs",
-              "ToolTip": "C:\\Users\\ricka\\source\\repos\\Labbar\\Lab002\\Wall.cs",
-              "RelativeToolTip": "Lab002\\Wall.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T08:58:56.355Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Dice.cs",
-              "DocumentMoniker": "C:\\Users\\ricka\\source\\repos\\Labbar\\Lab002\\Dice.cs",
-              "RelativeDocumentMoniker": "Lab002\\Dice.cs",
-              "ToolTip": "C:\\Users\\ricka\\source\\repos\\Labbar\\Lab002\\Dice.cs",
-              "RelativeToolTip": "Lab002\\Dice.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T08:55:19.399Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -96,119 +41,64 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ricka\\source\\repos\\NEU25G-Csharp\\L046_Labb3_codealong\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "..\\NEU25G-Csharp\\L046_Labb3_codealong\\ViewModels\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\ricka\\source\\repos\\NEU25G-Csharp\\L046_Labb3_codealong\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeToolTip": "..\\NEU25G-Csharp\\L046_Labb3_codealong\\ViewModels\\MainWindowViewModel.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T09:41:27.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConfigurationViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ricka\\source\\repos\\NEU25G-Csharp\\L046_Labb3_codealong\\ViewModels\\ConfigurationViewModel.cs",
+              "RelativeDocumentMoniker": "..\\NEU25G-Csharp\\L046_Labb3_codealong\\ViewModels\\ConfigurationViewModel.cs",
+              "ToolTip": "C:\\Users\\ricka\\source\\repos\\NEU25G-Csharp\\L046_Labb3_codealong\\ViewModels\\ConfigurationViewModel.cs",
+              "RelativeToolTip": "..\\NEU25G-Csharp\\L046_Labb3_codealong\\ViewModels\\ConfigurationViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T09:41:00.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Snake.cs",
-              "DocumentMoniker": "C:\\Users\\ricka\\source\\repos\\Labbar\\Lab002\\Snake.cs",
-              "RelativeDocumentMoniker": "Lab002\\Snake.cs",
-              "ToolTip": "C:\\Users\\ricka\\source\\repos\\Labbar\\Lab002\\Snake.cs",
-              "RelativeToolTip": "Lab002\\Snake.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T11:53:27.951Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Combat.cs",
-              "DocumentMoniker": "C:\\Users\\ricka\\source\\repos\\Labbar\\Lab002\\Combat.cs",
-              "RelativeDocumentMoniker": "Lab002\\Combat.cs",
-              "ToolTip": "C:\\Users\\ricka\\source\\repos\\Labbar\\Lab002\\Combat.cs",
-              "RelativeToolTip": "Lab002\\Combat.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T09:59:08.712Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Enemy.cs",
-              "DocumentMoniker": "C:\\Users\\ricka\\source\\repos\\Labbar\\Lab002\\Enemy.cs",
-              "RelativeDocumentMoniker": "Lab002\\Enemy.cs",
-              "ToolTip": "C:\\Users\\ricka\\source\\repos\\Labbar\\Lab002\\Enemy.cs",
-              "RelativeToolTip": "Lab002\\Enemy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T08:14:46.486Z",
+              "Title": "ConfigurationView.xaml",
+              "DocumentMoniker": "C:\\Users\\ricka\\source\\repos\\NEU25G-Csharp\\L046_Labb3_codealong\\Views\\ConfigurationView.xaml",
+              "RelativeDocumentMoniker": "..\\NEU25G-Csharp\\L046_Labb3_codealong\\Views\\ConfigurationView.xaml",
+              "ToolTip": "C:\\Users\\ricka\\source\\repos\\NEU25G-Csharp\\L046_Labb3_codealong\\Views\\ConfigurationView.xaml",
+              "RelativeToolTip": "..\\NEU25G-Csharp\\L046_Labb3_codealong\\Views\\ConfigurationView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-04T09:14:38.702Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ricka\\source\\repos\\Labbar\\Lab002\\Program.cs",
-              "RelativeDocumentMoniker": "Lab002\\Program.cs",
-              "ToolTip": "C:\\Users\\ricka\\source\\repos\\Labbar\\Lab002\\Program.cs",
-              "RelativeToolTip": "Lab002\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T13:25:49.444Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LevelData.cs",
-              "DocumentMoniker": "C:\\Users\\ricka\\source\\repos\\Labbar\\Lab002\\LevelData.cs",
-              "RelativeDocumentMoniker": "Lab002\\LevelData.cs",
-              "ToolTip": "C:\\Users\\ricka\\source\\repos\\Labbar\\Lab002\\LevelData.cs",
-              "RelativeToolTip": "Lab002\\LevelData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T13:03:13.389Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Rat.cs",
-              "DocumentMoniker": "C:\\Users\\ricka\\source\\repos\\Labbar\\Lab002\\Rat.cs",
-              "RelativeDocumentMoniker": "Lab002\\Rat.cs",
-              "ToolTip": "C:\\Users\\ricka\\source\\repos\\Labbar\\Lab002\\Rat.cs",
-              "RelativeToolTip": "Lab002\\Rat.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T12:52:22.632Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LevelElement.cs",
-              "DocumentMoniker": "C:\\Users\\ricka\\source\\repos\\Labbar\\Lab002\\LevelElement.cs",
-              "RelativeDocumentMoniker": "Lab002\\LevelElement.cs",
-              "ToolTip": "C:\\Users\\ricka\\source\\repos\\Labbar\\Lab002\\LevelElement.cs",
-              "RelativeToolTip": "Lab002\\LevelElement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T20:16:54.641Z",
+              "Title": "PlayerView.xaml",
+              "DocumentMoniker": "C:\\Users\\ricka\\source\\repos\\NEU25G-Csharp\\L046_Labb3_codealong\\Views\\PlayerView.xaml",
+              "RelativeDocumentMoniker": "..\\NEU25G-Csharp\\L046_Labb3_codealong\\Views\\PlayerView.xaml",
+              "ToolTip": "C:\\Users\\ricka\\source\\repos\\NEU25G-Csharp\\L046_Labb3_codealong\\Views\\PlayerView.xaml",
+              "RelativeToolTip": "..\\NEU25G-Csharp\\L046_Labb3_codealong\\Views\\PlayerView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-04T09:13:12.139Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\ricka\\source\\repos\\Labbar\\Lab002\\Player.cs",
-              "RelativeDocumentMoniker": "Lab002\\Player.cs",
-              "ToolTip": "C:\\Users\\ricka\\source\\repos\\Labbar\\Lab002\\Player.cs",
-              "RelativeToolTip": "Lab002\\Player.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T11:55:56.568Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Lab002.csproj",
-              "DocumentMoniker": "C:\\Users\\ricka\\source\\repos\\Labbar\\Lab002\\Lab002.csproj",
-              "RelativeDocumentMoniker": "Lab002\\Lab002.csproj",
-              "ToolTip": "C:\\Users\\ricka\\source\\repos\\Labbar\\Lab002\\Lab002.csproj",
-              "RelativeToolTip": "Lab002\\Lab002.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-12T11:50:32.243Z",
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ricka\\source\\repos\\NEU25G-Csharp\\L046_Labb3_codealong\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "..\\NEU25G-Csharp\\L046_Labb3_codealong\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ricka\\source\\repos\\NEU25G-Csharp\\L046_Labb3_codealong\\MainWindow.xaml",
+              "RelativeToolTip": "..\\NEU25G-Csharp\\L046_Labb3_codealong\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-04T09:11:58.195Z",
               "EditorCaption": ""
             }
           ]
